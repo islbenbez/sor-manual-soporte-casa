@@ -1,4 +1,4 @@
-# b0-0.1 · Metodología y estructura
+
 
 - **Alumno:* islam benbeztout
 - **Bloque:** B0 — Prerrequisitos
@@ -59,8 +59,8 @@ Crear desde cero la bóveda `Boveda_HTML_Casa` con su propio repositorio Git en 
 
 ## 🔗 Enlaces
 
-- **Vídeo de esta fase:** https://youtu.be/XXXXXXXXXXX
-- **Playlist:** B0_Prerrequisitos
+- **Vídeo de esta fase:** https://youtu.be/uFgov_jYSIw
+- **Playlist:**https://www.youtube.com/playlist?list=PLUTR5SDHdUkk
 
 ## 💭 Dudas / a repasar
 
